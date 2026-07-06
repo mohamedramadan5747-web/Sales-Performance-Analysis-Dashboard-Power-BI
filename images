@@ -1,5 +1,0 @@
-
-cd your-repo
-git rm images
-git commit -m "Delete images file"
-git push origin main
